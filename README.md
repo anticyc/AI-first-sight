@@ -1,6 +1,6 @@
 # AI first sight
 
-💡**Fundamental aritficial intelligence projects**
+💡**Fundamental artificial intelligence projects**
 
 ## THU Introduction to AI coursework
 

@@ -1,0 +1,5 @@
+tqdm
+torch==2.6.0
+gensim==4.3.3
+numpy==1.26.4
+matplotlib==3.9.2
